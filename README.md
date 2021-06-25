@@ -24,4 +24,4 @@
 ## Questions
   * Username: patrbraun
     * Github: https://github.com/patrbraun
-  * Email: example@email.com
+  * Email: prbraun@protonmail.com
